@@ -1,0 +1,13 @@
+3 4
+AGEDA
+EEGGC
+DDDDD
+5 1
+A
+C
+C
+D
+D
+2 4
+AACD
+EE00
